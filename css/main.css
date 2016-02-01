@@ -1,0 +1,30 @@
+body {
+  background-color: #4db8ff; }
+
+.jumbotron {
+  background-image: url("../Linden.png");
+  height: 50vh; }
+  .jumbotron .logo {
+    background-image: url("../linden-seal-2.png");
+    width: 150px;
+    height: 150px;
+    margin: auto 0; }
+
+.col-lg-4 {
+  padding-bottom: 20px; }
+  .col-lg-4 h2 {
+    color: white; }
+  .col-lg-4 h4 {
+    color: #e67300; }
+
+li {
+  list-style-type: none;
+  margin: 10px 4px; }
+  li .ez {
+    width: 210px;
+    height: 30px;
+    background-color: #ff884d;
+    color: white;
+    border-radius: 20px; }
+
+/*# sourceMappingURL=main.css.map */
